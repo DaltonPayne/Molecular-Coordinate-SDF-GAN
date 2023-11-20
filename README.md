@@ -16,3 +16,4 @@ git clone https://github.com/[YourUsername]/MoleculeGAN.git
 cd MoleculeGAN
 pip install -r requirements.txt
 # Molecular-Coordinate-SDF-GAN
+# Molecular-Coordinate-SDF-GAN
