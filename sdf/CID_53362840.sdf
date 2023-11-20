@@ -1,0 +1,241 @@
+53362840
+  -OEChem-09292322322D
+
+ 58 61  0     1  0  0  0  0  0999 V2000
+    4.5690    1.3289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8371    1.3489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0416   -1.7026    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7204    2.8388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1834   -1.2057    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.1834   -0.2057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3174   -1.7057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9071   -1.2185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0934    0.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9327   -0.2271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3174    0.2943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4514   -1.2057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0342   -2.7026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4514   -0.2057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1014    1.3427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3013    1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8965   -3.2090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5574    0.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5574   -1.7404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1994    1.8636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6514   -0.1849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6514   -1.2265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8891   -4.2090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8602    3.3488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7088    1.8389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.8588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3702    4.2090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3502    2.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1830   -1.8257    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9189   -2.1806    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7159   -2.1806    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1089   -1.8047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5199   -1.1241    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5398   -0.3530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1645    0.3480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4245   -2.5904    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8179   -3.2836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6396    1.6507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7608    1.6396    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5063   -3.3212    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1129   -2.6280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5646   -2.3603    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1970    2.4836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1156    0.1272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1156   -1.5386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2692   -4.2044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8846   -4.8290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5091   -4.2136    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2609    3.1426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3162    4.3921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4667    4.1750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6838    3.3254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9035    3.8928    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6864    4.7423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8368    4.5252    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169    2.8048    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0340    1.9553    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8835    2.1724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2 25  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  4 49  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 32  1  0  0  0  0
+  8 33  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 10 35  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 36  1  0  0  0  0
+ 13 37  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 15 38  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 39  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 17 40  1  0  0  0  0
+ 17 41  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 22  2  0  0  0  0
+ 19 42  1  0  0  0  0
+ 20 43  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 44  1  0  0  0  0
+ 22 45  1  0  0  0  0
+ 23 46  1  0  0  0  0
+ 23 47  1  0  0  0  0
+ 23 48  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 28  1  0  0  0  0
+ 26 50  1  0  0  0  0
+ 26 51  1  0  0  0  0
+ 26 52  1  0  0  0  0
+ 27 53  1  0  0  0  0
+ 27 54  1  0  0  0  0
+ 27 55  1  0  0  0  0
+ 28 56  1  0  0  0  0
+ 28 57  1  0  0  0  0
+ 28 58  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+53362840
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+557
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7MAAAAAAAAAAAAAAAAAAAAAAAAAA8YMEAAAAAAADxQAAAHgAQAAAADKzBmAQyDoPABACIAiBCGACCCAAgIAAIiAAODIkMJiKEsRuMMihk1BGIqAeQ0PMOgAADAAAYAACQAAaAADQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(6-propyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-11-yl) N-tert-butylcarbamate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-tert-butylcarbamic acid (6-propyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-11-yl) ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(6-propyl-5,6,6<I>a</I>,7-tetrahydro-4<I>H</I>-dibenzo[de,g]quinolin-11-yl) <I>N</I>-<I>tert</I>-butylcarbamate
+
+> <PUBCHEM_IUPAC_NAME>
+(6-propyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-11-yl) N-tert-butylcarbamate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(6-propyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-11-yl) N-tert-butylcarbamate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-tert-butylcarbamic acid (6-propyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-11-yl) ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C24H30N2O2/c1-5-13-26-14-12-16-8-6-10-18-21(16)19(26)15-17-9-7-11-20(22(17)18)28-23(27)25-24(2,3)4/h6-11,19H,5,12-15H2,1-4H3,(H,25,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QBLFVLVMLBAUAE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.9
+
+> <PUBCHEM_EXACT_MASS>
+378.230728204
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C24H30N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+378.5
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCN1CCC2=C3C1CC4=C(C3=CC=C2)C(=CC=C4)OC(=O)NC(C)(C)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCN1CCC2=C3C1CC4=C(C3=CC=C2)C(=CC=C4)OC(=O)NC(C)(C)C
+
+> <PUBCHEM_CACTVS_TPSA>
+41.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+378.230728204
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  16  8
+12  14  8
+12  19  8
+14  18  8
+15  20  8
+16  20  8
+18  21  8
+19  22  8
+21  22  8
+5  7  3
+6  11  8
+6  9  8
+9  15  8
+
+$$$$

@@ -1,0 +1,199 @@
+10472158
+  -OEChem-09292322042D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    7.5673    3.4520    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    1.1386    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9394    0.8279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0384    1.4492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.4214    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781   -3.5287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783    0.1881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -0.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889   -2.3719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2996    2.0891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.3833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674   -2.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781    2.2953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6318    2.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5888    3.2458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9424    3.7839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9209    3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819   -0.6167    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3751   -2.4593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9684   -2.9916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.0033    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5812   -2.4908    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -1.9585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.1933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6922    1.8338    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0251    2.7055    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.4267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8848   -3.6565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8640   -3.9901    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5284    4.2454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1135    4.5795    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7 33  1  0  0  0  0
+  7 34  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 35  1  0  0  0  0
+ 22 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10472158
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+482
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMABEAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAFgB/AAAHAYQAAAADALBWyQ9sd9MEAqgAjJnZHDCgCkxD7AJ2Lw4ZpiIaOLhm5GUIAxokALoyCcQAAAOAAAAABAAAAAAAAAAIAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[3-(3-chlorophenyl)sulfonylpyrrolo[2,3-b]pyridin-1-yl]ethanamine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[3-(3-chlorophenyl)sulfonyl-1-pyrrolo[2,3-b]pyridinyl]ethanamine
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-[3-(3-chlorophenyl)sulfonylpyrrolo[2,3-b]pyridin-1-yl]ethanamine
+
+> <PUBCHEM_IUPAC_NAME>
+2-[3-(3-chlorophenyl)sulfonylpyrrolo[2,3-b]pyridin-1-yl]ethanamine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[3-(3-chlorophenyl)sulfonylpyrrolo[2,3-b]pyridin-1-yl]ethanamine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[3-(3-chlorophenyl)sulfonylpyrrolo[2,3-b]pyridin-1-yl]ethylamine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14ClN3O2S/c16-11-3-1-4-12(9-11)22(20,21)14-10-19(8-6-17)15-13(14)5-2-7-18-15/h1-5,7,9-10H,6,8,17H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XGXHANFTDNWBFA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.7
+
+> <PUBCHEM_EXACT_MASS>
+335.0495256
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14ClN3O2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+335.8
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=CC(=C1)Cl)S(=O)(=O)C2=CN(C3=C2C=CC=N3)CCN
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=CC(=C1)Cl)S(=O)(=O)C2=CN(C3=C2C=CC=N3)CCN
+
+> <PUBCHEM_CACTVS_TPSA>
+86.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+335.0495256
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  17  8
+13  18  8
+14  16  8
+16  19  8
+17  20  8
+18  21  8
+20  22  8
+21  22  8
+5  10  8
+5  11  8
+6  10  8
+6  19  8
+8  11  8
+8  9  8
+9  10  8
+9  14  8
+
+$$$$

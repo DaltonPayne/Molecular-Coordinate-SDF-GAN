@@ -1,0 +1,198 @@
+44276572
+  -OEChem-09292322222D
+
+ 36 39  0     1  0  0  0  0  0999 V2000
+    2.9176    3.7717    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8096   -2.3999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -3.4596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    2.2371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.2163    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    1.2371    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6660    0.7371    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.4421    0.7302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6500   -0.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4501   -0.3114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    1.2371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5480   -0.8322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    2.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    2.2371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6980   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5564   -1.9171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    2.7718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6813   -1.9099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -2.4596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.2579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2649    1.6678    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9267    0.3178    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0537    0.6289    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6466    1.3155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6636   -0.8934    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0601   -0.2006    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0690    2.5471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0646    3.2120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2675    3.2120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1672   -0.5047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0945   -2.2251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    0.0825    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    2.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8024   -3.0198    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1486   -3.7717    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3 20  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 21  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 22  1  1  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 23  1  6  0  0  0
+  8 10  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44276572
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+397
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MQAAAAAAAAAAAAAAAAAAAAAAAAA8eIEAAAAAAADxwAAAHwAQCAAADSzBmgw8hpLIEgCgAjBnRACCgCAxICAA2KAuzJgJJmLCkZOEcAlk0BHJ2AeQ0PMOoAABAAAQQABQAAaAACSAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(6aR,12bS)-4-fluoro-5,6,6a,7,8,12b-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(6aR,12bS)-4-fluoro-5,6,6a,7,8,12b-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(6<I>a</I><I>R</I>,12<I>b</I><I>S</I>)-4-fluoro-5,6,6<I>a</I>,7,8,12<I>b</I>-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_NAME>
+(6aR,12bS)-4-fluoro-5,6,6a,7,8,12b-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(6aR,12bS)-4-fluoranyl-5,6,6a,7,8,12b-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(6aR,12bS)-4-fluoro-5,6,6a,7,8,12b-hexahydronaphtho[2,1-c][2,6]naphthyridine-10,11-diol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15FN2O2/c17-12-7-18-5-11-10(12)6-19-13-2-1-8-3-14(20)15(21)4-9(8)16(11)13/h3-5,7,13,16,19-21H,1-2,6H2/t13-,16+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DPWOYQPDXBTFJT-CJNGLKHVSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.6
+
+> <PUBCHEM_EXACT_MASS>
+286.11175589
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15FN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+286.30
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2=CC(=C(C=C2C3C1NCC4=C(C=NC=C34)F)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2=CC(=C(C=C2[C@@H]3[C@@H]1NCC4=C(C=NC=C34)F)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+65.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+286.11175589
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  17  8
+12  16  8
+14  18  8
+15  19  8
+16  20  8
+18  21  8
+19  20  8
+5  17  8
+5  21  8
+6  22  5
+7  23  6
+9  12  8
+9  15  8
+
+$$$$

@@ -1,0 +1,198 @@
+155563815
+  -OEChem-09292322092D
+
+ 35 38  0     0  0  0  0  0  0999 V2000
+    5.9030   -2.1329    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0908    0.6719    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2247   -0.8281    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0908   -2.3282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2247    1.1718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9659    2.1378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2588    0.9130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.8790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0908   -0.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9568   -0.8281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9030   -0.5234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9568   -1.8282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2137    0.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4866   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2247   -1.8282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5458    1.1714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1922    0.6333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8565    2.1219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5028    1.5838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8350    2.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1438    0.5572    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5648    2.2982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8055    2.7366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6600    0.7526    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4193    0.3142    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8395    2.4778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4011    1.7185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6277    0.9819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1066   -1.3282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6878   -2.1382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9392    1.0436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6062    0.1719    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4424    2.5834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1095    1.7117    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0276    2.9175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 12  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+155563815
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+328
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7AABAAAAAAAAAAAAAAABgASAAAAA8QAAAAAAAAFgB/AAAHAQQAAAADCjFWgS1sdbIEAikAiJjZACD0KlxCLgJ2LAoRJiIKCLg2dGEJAxokALoyCcQgMAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-cyclobutyl-5-phenyl-thieno[2,3-d]pyrimidin-4-amine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-cyclobutyl-5-phenyl-4-thieno[2,3-d]pyrimidinamine
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>N</I>-cyclobutyl-5-phenylthieno[2,3-d]pyrimidin-4-amine
+
+> <PUBCHEM_IUPAC_NAME>
+N-cyclobutyl-5-phenylthieno[2,3-d]pyrimidin-4-amine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-cyclobutyl-5-phenyl-thieno[2,3-d]pyrimidin-4-amine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+cyclobutyl-(5-phenylthieno[2,3-d]pyrimidin-4-yl)amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15N3S/c1-2-5-11(6-3-1)13-9-20-16-14(13)15(17-10-18-16)19-12-7-4-8-12/h1-3,5-6,9-10,12H,4,7-8H2,(H,17,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XDLOBZCUJDVWHV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.4
+
+> <PUBCHEM_EXACT_MASS>
+281.09866866
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15N3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+281.4
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(C1)NC2=C3C(=CSC3=NC=N2)C4=CC=CC=C4
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(C1)NC2=C3C(=CSC3=NC=N2)C4=CC=CC=C4
+
+> <PUBCHEM_CACTVS_TPSA>
+66
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+281.09866866
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  12  8
+1  14  8
+10  11  8
+10  12  8
+11  14  8
+13  16  8
+13  17  8
+16  18  8
+17  19  8
+18  20  8
+19  20  8
+3  15  8
+3  9  8
+4  12  8
+4  15  8
+9  10  8
+
+$$$$

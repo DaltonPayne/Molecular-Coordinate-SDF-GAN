@@ -1,0 +1,236 @@
+57383397
+  -OEChem-09292321582D
+
+ 52 55  0     1  0  0  0  0  0999 V2000
+    2.0000   -2.8395    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   10.4702   -1.0783    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+   11.4041    2.0133    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4702   -2.0783    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4140    1.2245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9702    1.1123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8971   -0.4286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3467    0.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5692   -0.6444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5364    2.0133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3562    0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5937    0.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3712   -0.6444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9702    1.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5872   -0.0497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9427   -0.1302    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.8167   -1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8190   -1.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6328    0.2487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2070   -0.8075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5842    0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1237   -1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0997    2.8395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7239    0.8456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3532   -0.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1214   -1.0653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4258   -1.7833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2526   -0.5091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6901   -2.4606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5169   -1.1864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7357   -2.1622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0925    2.4462    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0330    1.6514    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2253    1.2588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0783   -0.7352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9616   -1.9674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3661   -1.4887    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0328   -1.0336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7152    1.2588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9788   -1.9674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6119    2.4903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4489    3.3518    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5874    3.1888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3289    0.9812    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5883    1.4506    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1190    0.7100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9450    0.1352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5743   -1.4888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0175   -1.9683    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1170    0.0959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8257   -3.0656    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9252   -1.0014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 31  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  6  0  0  0
+  2 13  1  0  0  0  0
+  3 14  2  0  0  0  0
+  5 19  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+ 16  7  1  1  0  0  0
+  7 19  1  0  0  0  0
+  7 38  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 34  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  2  0  0  0  0
+ 13 22  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 35  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 20 27  2  0  0  0  0
+ 20 28  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 39  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 40  1  0  0  0  0
+ 23 41  1  0  0  0  0
+ 23 42  1  0  0  0  0
+ 23 43  1  0  0  0  0
+ 24 44  1  0  0  0  0
+ 24 45  1  0  0  0  0
+ 24 46  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 47  1  0  0  0  0
+ 26 48  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 49  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 28 50  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 51  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 52  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+57383397
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+696
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7MABAEAAAAAAAAAAAAAAAAAAAAAAwYMAABYAAAAABUAAAHgRQAAABrCjB2AQywYPAAAqIAiVSUEDCAAAlChQIiJ0IZOgIIDLglZGEIQhglgDoy5cciICOEgAAQAAEAQAkAACAAAgCAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(11S)-N-[(1R)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-dioxo-benzo[b][1,4]benzothiazepine-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(11S)-N-[(1R)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-dioxo-3-benzo[b][1,4]benzothiazepinecarboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(11<I>S</I>)-<I>N</I>-[(1<I>R</I>)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-dioxobenzo[b][1,4]benzothiazepine-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+(11S)-N-[(1R)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-dioxobenzo[b][1,4]benzothiazepine-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(11S)-N-[(1R)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-bis(oxidanylidene)benzo[b][1,4]benzothiazepine-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(11S)-N-[(1R)-1-(4-bromophenyl)ethyl]-5-ethyl-6,11-diketo-benzo[b][1,4]benzothiazepine-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C24H21BrN2O3S/c1-3-27-20-14-17(23(28)26-15(2)16-8-11-18(25)12-9-16)10-13-22(20)31(30)21-7-5-4-6-19(21)24(27)29/h4-15H,3H2,1-2H3,(H,26,28)/t15-,31+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PGBIKSUFINVTHD-QLCIJSRNSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4
+
+> <PUBCHEM_EXACT_MASS>
+496.04563
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C24H21BrN2O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+497.4
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCN1C2=C(C=CC(=C2)C(=O)NC(C)C3=CC=C(C=C3)Br)S(=O)C4=CC=CC=C4C1=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCN1C2=C(C=CC(=C2)C(=O)N[C@H](C)C3=CC=C(C=C3)Br)[S@@](=O)C4=CC=CC=C4C1=O
+
+> <PUBCHEM_CACTVS_TPSA>
+85.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+496.04563
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+31
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  15  8
+12  13  8
+12  21  8
+13  22  8
+15  18  8
+17  18  8
+2  9  6
+20  27  8
+20  28  8
+21  25  8
+22  26  8
+25  26  8
+27  29  8
+28  30  8
+29  31  8
+30  31  8
+16  7  5
+8  11  8
+8  9  8
+9  17  8
+
+$$$$

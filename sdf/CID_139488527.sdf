@@ -1,0 +1,192 @@
+139488527
+  -OEChem-09292322462D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    5.1350    0.9801    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.9801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6715    1.5454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9473   -1.8247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2112    2.0427    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.5199    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9473   -0.2152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2579    0.7353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5309   -1.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6715    1.5471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2095    1.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2607    2.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1730    2.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1509   -1.0199    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1399   -2.4140    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0886    1.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7781    0.9363    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.6399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7105    0.6774    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0702    2.9433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7105    2.7231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8640    2.9514    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6356    2.1049    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2099    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.1399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 20  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 20  1  0  0  0  0
+  6 32  1  0  0  0  0
+  6 33  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+139488527
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+380
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzoQAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAAAFgB/AAAHwAQAAAADAjBngw/0PfNkACoAzV3dACCgC01EqAJ2aE4dNiIaPLA3JGUIQhokALIyacYicCeiAACAAACAAAQAAQAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(3-ethylimidazol-4-yl)-4-fluoro-1H-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(3-ethyl-4-imidazolyl)-4-fluoro-1H-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-(3-ethylimidazol-4-yl)-4-fluoro-1<I>H</I>-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+3-(3-ethylimidazol-4-yl)-4-fluoro-1H-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(3-ethylimidazol-4-yl)-4-fluoranyl-1H-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(3-ethylimidazol-4-yl)-4-fluoro-1H-indole-5-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H13FN4O/c1-2-19-7-17-6-11(19)9-5-18-10-4-3-8(14(16)20)13(15)12(9)10/h3-7,18H,2H2,1H3,(H2,16,20)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FWZUODWVVQJFHM-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.1
+
+> <PUBCHEM_EXACT_MASS>
+272.10733921
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H13FN4O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+272.28
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)C(=O)N)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)C(=O)N)F
+
+> <PUBCHEM_CACTVS_TPSA>
+76.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+272.10733921
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+12  15  8
+14  18  8
+15  18  8
+3  17  8
+3  9  8
+4  10  8
+4  11  8
+5  16  8
+5  17  8
+7  11  8
+7  8  8
+8  10  8
+8  12  8
+9  16  8
+
+$$$$

@@ -1,12 +1,11 @@
-# MoleculeGAN
+# Molecular Coordinate SDF GAN
 
 ## Overview
-MoleculeGAN combines the power of AI and chemistry to innovate in molecular structure generation. Utilizing Generative Adversarial Networks (GANs) with PyTorch and RDKit, this project opens new avenues in computational chemistry and drug discovery.
+This is an example approach to generating molecular structures using Generative Adversarial Networks (GANs). This project uses PyTorch for model architecture and RDKit for chemical informatics.
 
-## Features
-- **GAN Architecture**: Custom designed for generating molecular structures.
-- **PyTorch Integration**: Employs PyTorch for neural network operations.
-- **Chemical Informatics with RDKit**: Handles molecular data efficiently.
+## Model
+- **Training and Testing Data**: Molecular Descriptors from SDF files using RDKit.
+- **Architecture**: PyTorch.
 
 # Installation Instructions
 To install the necessary packages, run the following commands in your terminal:
@@ -15,5 +14,11 @@ To install the necessary packages, run the following commands in your terminal:
 git clone https://github.com/[YourUsername]/MoleculeGAN.git
 cd MoleculeGAN
 pip install -r requirements.txt
-# Molecular-Coordinate-SDF-GAN
-# Molecular-Coordinate-SDF-GAN
+```
+
+Download a set of SDF files, either from PubChem or other sources for training and move them into the sdf folder. Run
+
+```bash
+python tensor.py
+```
+to convert the SDF files into tensors for training. Then use the jupyter notebook to train the model and generate molecular representation coordinates. You may also use train.py to train the model.

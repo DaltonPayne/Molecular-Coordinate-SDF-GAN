@@ -1,0 +1,184 @@
+44374225
+  -OEChem-09292322502D
+
+ 35 35  0     0  0  0  0  0  0999 V2000
+    5.2111    0.7319    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4712   -0.5282    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7111   -0.8069    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9086    0.5011    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -0.5282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9021   -0.2192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6420    0.4229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2601   -1.4792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2111    0.7319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1654   -0.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5202   -0.2192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2144    0.1410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8596    0.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7006    1.4792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -0.2475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -1.0288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -1.4268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2317    0.6145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4504    1.0125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0524    0.2313    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6704   -1.6708    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -2.0689    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8497   -1.2876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8467    1.2335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8743   -0.7155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6540   -0.5498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5054    0.6884    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7258    0.5227    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6680   -0.3976    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4493    0.0005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0512    0.7817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3071    1.6081    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5717    2.0857    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0942    1.3503    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44374225
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+190
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzAABgAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHAQAAAAADgjFVgSigRMIEAikAQRiRAAA8aBhCjgAABQ4IAgAIAAgAAAEAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(4-tert-butylthiazol-2-yl)sulfanyl-N,N-dimethyl-ethanamine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[(4-tert-butyl-2-thiazolyl)thio]-N,N-dimethylethanamine
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-[(4-<I>tert</I>-butyl-1,3-thiazol-2-yl)sulfanyl]-<I>N</I>,<I>N</I>-dimethylethanamine
+
+> <PUBCHEM_IUPAC_NAME>
+2-[(4-tert-butyl-1,3-thiazol-2-yl)sulfanyl]-N,N-dimethylethanamine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[(4-tert-butyl-1,3-thiazol-2-yl)sulfanyl]-N,N-dimethyl-ethanamine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[(4-tert-butylthiazol-2-yl)thio]ethyl-dimethyl-amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H20N2S2/c1-11(2,3)9-8-15-10(12-9)14-7-6-13(4)5/h8H,6-7H2,1-5H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OSPHUVJGYFZGRF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.5
+
+> <PUBCHEM_EXACT_MASS>
+244.10679099
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H20N2S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+244.4
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)(C)C1=CSC(=N1)SCCN(C)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)(C)C1=CSC(=N1)SCCN(C)C
+
+> <PUBCHEM_CACTVS_TPSA>
+69.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+244.10679099
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  12  8
+3  12  8
+3  6  8
+6  10  8
+
+$$$$

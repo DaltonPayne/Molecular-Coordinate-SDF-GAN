@@ -1,0 +1,183 @@
+9882257
+  -OEChem-09292322122D
+
+ 32 34  0     1  0  0  0  0  0999 V2000
+    2.9176   -2.1438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4421    0.8976    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.8908    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5321    0.3908    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6500    1.9323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.3908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5480    2.4600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.1092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4501    1.9392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.9254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -1.1439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3989    1.3214    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2649   -0.0399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4319    2.5127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0408    1.8168    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7441   -1.1918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1426   -0.5016    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9453    2.9360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1470    2.9329    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2675   -1.5842    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0646   -1.5842    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9754    0.5814    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0601    1.8284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6636    2.5213    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    1.5454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.7236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -0.9421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3843   -2.4600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 32  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  6  0  0  0
+  5  8  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9882257
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+231
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAAAAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAADxAAAAHgAQCAAADSzBmAQwBoLAAgCAAiBCAAACAAAgIAAIiIAOCIgIJiKCkROEcAAk0BGImAeQ0PMOgAABAAAYAAAQAAaAADQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(4aS,10bS)-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(4aS,10bS)-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(4<I>a</I><I>S</I>,10<I>b</I><I>S</I>)-1,2,3,4,4<I>a</I>,5,6,10<I>b</I>-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_NAME>
+(4aS,10bS)-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(4aS,10bS)-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(4aS,10bS)-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinolin-7-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H17NO/c15-13-5-1-3-9-10-4-2-8-14-12(10)7-6-11(9)13/h1,3,5,10,12,14-15H,2,4,6-8H2/t10-,12-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RWDHALOKAOEZPC-JQWIXIFHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.1
+
+> <PUBCHEM_EXACT_MASS>
+203.131014166
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H17NO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+203.28
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2C(CCC3=C2C=CC=C3O)NC1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C[C@@H]2[C@H](CCC3=C2C=CC=C3O)NC1
+
+> <PUBCHEM_CACTVS_TPSA>
+32.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+203.131014166
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+12  14  8
+13  15  8
+14  15  8
+3  16  5
+4  17  6
+7  11  8
+7  12  8
+
+$$$$

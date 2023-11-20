@@ -1,0 +1,196 @@
+24878061
+  -OEChem-09292322282D
+
+ 35 38  0     1  0  0  0  0  0999 V2000
+    6.4501    0.1886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8096   -1.8999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -2.9596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    2.7371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    1.2371    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5321    1.7371    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8000    1.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6500    0.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4421    1.2302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    3.2371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    2.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5480   -0.3322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    1.2024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6980   -0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    3.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5564   -1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6813   -1.4099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -1.9597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9267    0.8177    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2649    2.1677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0537    1.1288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6466    1.8155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0690    3.0471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0646    3.7120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2675    3.7120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    0.5824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1672   -0.0048    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    3.8917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0945   -1.7251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    1.4042    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    3.0699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8024   -2.5198    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1486   -3.2717    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3 20  1  0  0  0  0
+  3 35  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 21  1  1  0  0  0
+  6  9  1  0  0  0  0
+  6 22  1  6  0  0  0
+  7 11  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+24878061
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+364
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6MAAAAAAAAAAAAAAAAAAAAAAAAAA8aIEAAAAAAACxQAAAHgAQCAAADSzhmAYwBoLABgCAAiBCAACCCAAgIAAIiIAOjIgPJyKGsRuHeCnl0BWZuAfw8P8OoQABCAAYQABCAAIQADCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(6aR,12bS)-6a,7,8,12b-tetrahydro-6H-chromeno[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(6aR,12bS)-6a,7,8,12b-tetrahydro-6H-[1]benzopyrano[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(6<I>a</I><I>R</I>,12<I>b</I><I>S</I>)-6<I>a</I>,7,8,12<I>b</I>-tetrahydro-6<I>H</I>-chromeno[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_NAME>
+(6aR,12bS)-6a,7,8,12b-tetrahydro-6H-chromeno[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(6aR,12bS)-6a,7,8,12b-tetrahydro-6H-chromeno[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(6aR,12bS)-6a,7,8,12b-tetrahydro-6H-chromen[3,4-c]isoquinoline-2,3-diol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15NO3/c18-13-5-11-15(6-14(13)19)20-8-12-16(11)10-4-2-1-3-9(10)7-17-12/h1-6,12,16-19H,7-8H2/t12-,16-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QDUNOUQOKOYLCH-LRDDRELGSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+269.10519334
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+269.29
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C2C(C3=CC=CC=C3CN2)C4=CC(=C(C=C4O1)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H]2[C@@H](C3=CC=CC=C3CN2)C4=CC(=C(C=C4O1)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+61.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+269.10519334
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  15  8
+12  16  8
+13  17  8
+14  18  8
+15  19  8
+16  20  8
+17  19  8
+18  20  8
+5  21  5
+6  22  6
+7  11  8
+7  13  8
+8  12  8
+8  14  8
+
+$$$$

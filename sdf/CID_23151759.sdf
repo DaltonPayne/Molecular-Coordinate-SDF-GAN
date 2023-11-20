@@ -1,0 +1,190 @@
+23151759
+  -OEChem-09292322472D
+
+ 35 36  0     1  0  0  0  0  0999 V2000
+    4.2826    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1333    6.4583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9434    5.4980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3100    3.8052    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9593    3.2763    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5927    4.9691    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1333    5.4583    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.9423    4.8705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3243    4.8705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6333    3.9194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6333    3.9194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9577    5.1028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3183    3.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3089    5.1028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9483    3.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6607    4.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3388    3.3434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6060    4.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9278    3.3434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6380    4.5457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2873    4.0169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6857    5.7398    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1425    5.6946    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1199    2.5473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1241    5.6946    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1467    2.5473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7519    2.8811    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.4653    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5148    2.8811    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5964    6.7683    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5653    3.4076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7700    2.6859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1986    5.1004    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1760    5.4282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2826    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 35  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3 20  2  0  0  0  0
+  4 20  1  0  0  0  0
+  4 21  2  0  0  0  0
+  5 21  1  0  0  0  0
+  5 31  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 33  1  0  0  0  0
+  6 34  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+23151759
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+419
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAEAAAAAAAAAAAAAAAAAYAAAAAwYAAAAAAAAGABQAAAHgAQCAAADBShmAIxAIJAAgCoAiFSNACCAAEkAAAIiAEADMgINjKAlRGAcQBkwAEImYeY3ODOwAACAAAQAACAAAQAACAAAYAADAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(diaminomethylene)-9-hydroxy-9H-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(diaminomethylidene)-9-hydroxy-9H-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>N</I>-(diaminomethylidene)-9-hydroxy-9<I>H</I>-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+N-(diaminomethylidene)-9-hydroxy-9H-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-[bis(azanyl)methylidene]-9-oxidanyl-9H-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(diaminomethylene)-9-hydroxy-9H-fluorene-2-carboxamide;hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H13N3O2.ClH/c16-15(17)18-14(20)8-5-6-10-9-3-1-2-4-11(9)13(19)12(10)7-8;/h1-7,13,19H,(H4,16,17,18,20);1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KJPICQIEXXARFA-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+303.0774544
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14ClN3O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+303.74
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C3=C(C=C(C=C3)C(=O)N=C(N)N)C(C2=C1)O.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C3=C(C=C(C=C3)C(=O)N=C(N)N)C(C2=C1)O.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+102
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+303.0774544
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+11  15  8
+12  16  8
+13  17  8
+14  18  8
+15  19  8
+16  17  8
+18  19  8
+7  2  3
+8  10  8
+8  12  8
+9  11  8
+9  14  8
+
+$$$$

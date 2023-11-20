@@ -1,0 +1,233 @@
+44387777
+  -OEChem-09292322522D
+
+ 52 55  0     0  0  0  0  0  0999 V2000
+    5.0981    1.6596    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2936    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.7064    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -6.7064    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641    1.1596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    2.1596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2064    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0981    5.1237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6913    6.0373    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4345    6.7064    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.7936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    2.5256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981    3.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    2.5256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    4.2577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0981    3.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    4.2577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -4.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -4.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -5.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -5.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -5.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0926    5.2282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3005    6.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747    0.1859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762    0.8762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200    0.8762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215    0.1859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762   -1.2890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747   -0.5987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -0.5987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -1.2890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101   -2.7890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087   -2.0987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -2.1238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -2.8141    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4781    3.3917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081    1.9887    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2881    4.7946    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7181    3.3917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.8964    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -5.5164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -5.5164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5075    4.7675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8669    6.4586    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1 11  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 29  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 13 35  1  0  0  0  0
+ 14 36  1  0  0  0  0
+ 14 37  1  0  0  0  0
+ 15 38  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 40  1  0  0  0  0
+ 16 41  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 42  1  0  0  0  0
+ 18 43  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 19 44  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 20 45  1  0  0  0  0
+ 21 25  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 46  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 47  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 26 48  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 27 49  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 50  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 30 51  1  0  0  0  0
+ 31 52  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44387777
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+691
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7sYBAAAAAAAAAAAAAAAAAAWAAAAA8YIAAAAAAAAAB0AAAHQQIAAAADAjBWgw8wZMIAAqiAjRnRHDCBCQxmhAYiBgYdIgIYGLgkZGUIAhggADoyAcQgIAOAAQAAAAAAAAACAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-[2-(2,4-difluorophenyl)ethyl]-4-fluoro-4-[4-(triazol-1-yl)phenyl]sulfonyl-piperidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-[2-(2,4-difluorophenyl)ethyl]-4-fluoro-4-[4-(1-triazolyl)phenyl]sulfonylpiperidine
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-[2-(2,4-difluorophenyl)ethyl]-4-fluoro-4-[4-(triazol-1-yl)phenyl]sulfonylpiperidine
+
+> <PUBCHEM_IUPAC_NAME>
+1-[2-(2,4-difluorophenyl)ethyl]-4-fluoro-4-[4-(triazol-1-yl)phenyl]sulfonylpiperidine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[2-[2,4-bis(fluoranyl)phenyl]ethyl]-4-fluoranyl-4-[4-(1,2,3-triazol-1-yl)phenyl]sulfonyl-piperidine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-[2-(2,4-difluorophenyl)ethyl]-4-fluoro-4-[4-(triazol-1-yl)phenyl]sulfonyl-piperidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C21H21F3N4O2S/c22-17-2-1-16(20(23)15-17)7-11-27-12-8-21(24,9-13-27)31(29,30)19-5-3-18(4-6-19)28-14-10-25-26-28/h1-6,10,14-15H,7-9,11-13H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ROUIKLYEGNFVSJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.6
+
+> <PUBCHEM_EXACT_MASS>
+450.13373159
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C21H21F3N4O2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+450.5
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CN(CCC1(F)S(=O)(=O)C2=CC=C(C=C2)N3C=CN=N3)CCC4=C(C=C(C=C4)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN(CCC1(F)S(=O)(=O)C2=CC=C(C=C2)N3C=CN=N3)CCC4=C(C=C(C=C4)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+76.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+450.13373159
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+31
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  31  8
+17  19  8
+17  20  8
+19  22  8
+20  23  8
+21  25  8
+21  26  8
+22  24  8
+23  24  8
+25  27  8
+26  28  8
+27  29  8
+28  29  8
+30  31  8
+8  30  8
+8  9  8
+9  10  8
+
+$$$$

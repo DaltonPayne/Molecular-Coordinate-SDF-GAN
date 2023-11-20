@@ -1,0 +1,183 @@
+137634153
+  -OEChem-09292322392D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    4.6260    0.1203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6260    2.1897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.1550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.6342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    1.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880   -0.7624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894   -1.4527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3426   -1.4527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9441   -0.7624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894   -2.2373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880   -2.9276    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9441   -2.9276    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3426   -2.2373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.3450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7411    0.0505    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1429    0.7403    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1429    1.5697    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7411    2.2595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    3.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+137634153
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+258
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzMAAAAAAAAAAAAAAAAAAAAAAAAAA8SIAAAAAAAACRAAAAHgAQCAAACAzhkAYwxoPABgCAACRCQACCCAAhIgAIiIAP7IgPZyLGsJuXeCvn0B3b+AewcA8AAEAACgAAUAAAgAAUAACgAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+8-piperazin-1-yl-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+8-(1-piperazinyl)-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+8-piperazin-1-yl-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_NAME>
+8-piperazin-1-yl-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+8-piperazin-1-yl-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+8-piperazino-2,3-dihydro-1,4-benzodioxin-5-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H16N2O3/c15-10-2-1-9(14-5-3-13-4-6-14)11-12(10)17-8-7-16-11/h1-2,13,15H,3-8H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+WEYXUHPIPVELRK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.8
+
+> <PUBCHEM_EXACT_MASS>
+236.11609238
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H16N2O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+236.27
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CN(CCN1)C2=C3C(=C(C=C2)O)OCCO3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN(CCN1)C2=C3C(=C(C=C2)O)OCCO3
+
+> <PUBCHEM_CACTVS_TPSA>
+54
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+236.11609238
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  13  8
+11  12  8
+12  15  8
+13  16  8
+15  16  8
+
+$$$$

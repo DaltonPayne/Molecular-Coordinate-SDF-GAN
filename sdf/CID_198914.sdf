@@ -1,0 +1,201 @@
+198914
+  -OEChem-09292322492D
+
+ 36 39  0     1  0  0  0  0  0999 V2000
+    8.8991    1.8619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0547   -1.2544    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5274   -0.1301    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3518   -0.4857    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.3364   -0.7179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0274   -1.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7123   -2.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7328   -2.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0274   -1.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7183   -0.7179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6498    0.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3424   -2.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7029   -0.4857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6255    0.6881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9721    1.2043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3219   -2.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9235    1.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2701    2.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2458    2.3780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9570   -0.3509    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1824   -2.7755    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9387   -3.0309    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7513   -2.8647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3466   -2.3329    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6607   -1.1231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5274    0.4899    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5408   -3.0411    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5182    0.1062    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0456    0.2322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3672    1.0684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9088   -2.7074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3940   -1.1231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8499    2.6147    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4305    2.9699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0839    2.4537    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 36  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+198914
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+348
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7IAAAAAAAAAAAAAAAAAAAAWAAAAA8YIAAAAAAAFgB9AAAHgAQCAAADCzBngQwxvLJkgCgAyRiRACCgCAhIiAImaA+bJgIZuLCkZOUcAhk0BHI2Aew0PMOgAABAAACAAAAAAIAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl)phenol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl)phenol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-(2,3,4,9-tetrahydro-1<I>H</I>-pyrido[3,4-b]indol-1-yl)phenol
+
+> <PUBCHEM_IUPAC_NAME>
+3-(2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl)phenol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl)phenol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(2,3,4,9-tetrahydro-1H-beta-carbolin-1-yl)phenol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H16N2O/c20-12-5-3-4-11(10-12)16-17-14(8-9-18-16)13-6-1-2-7-15(13)19-17/h1-7,10,16,18-20H,8-9H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PBHDVNKOSVXBHD-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.8
+
+> <PUBCHEM_EXACT_MASS>
+264.126263138
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H16N2O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+264.32
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CNC(C2=C1C3=CC=CC=C3N2)C4=CC(=CC=C4)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CNC(C2=C1C3=CC=CC=C3N2)C4=CC(=CC=C4)O
+
+> <PUBCHEM_CACTVS_TPSA>
+48
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+264.126263138
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+11  14  8
+11  15  8
+12  16  8
+13  17  8
+14  18  8
+15  19  8
+16  17  8
+18  20  8
+19  20  8
+3  10  8
+3  5  8
+4  11  3
+5  6  8
+6  9  8
+9  10  8
+9  12  8
+
+$$$$

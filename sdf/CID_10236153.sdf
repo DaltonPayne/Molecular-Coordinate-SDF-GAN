@@ -1,0 +1,194 @@
+10236153
+  -OEChem-09292322192D
+
+ 35 38  0     0  0  0  0  0  0999 V2000
+    5.1660   -1.5360    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8570   -0.5849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4751   -0.5849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.5029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.5029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1660   -1.5360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    1.5029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    1.5029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    2.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -0.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260   -0.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    2.0376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260    2.0376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321    0.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.5237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321    1.5237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5470   -0.0480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2906   -0.8371    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0414   -0.8371    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7850   -0.0480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5596   -1.6649    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2308   -2.1526    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5305   -2.0376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0646    2.4778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2675    2.4778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -0.6517    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188   -0.6517    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    2.6575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188    2.6575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.1700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8678    0.1700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    1.8358    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8678    1.8358    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10236153
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+289
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB6AAAAAAAAAAAAAAAAAAAAAWAAAAAwYMAAAAAAAADBQAAAHAAQAAAADgDBGAQwAILAAACAAiBCAAACAAAgAAAIiIAIAIgIICKAkRGEIAAgkACIiAcQgMAPgAAAAAAQAACAAAQAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+spiro[9H-anthracene-10,3'-pyrrolidine]
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+spiro[9H-anthracene-10,3'-pyrrolidine]
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+spiro[9<I>H</I>-anthracene-10,3&apos;-pyrrolidine]
+
+> <PUBCHEM_IUPAC_NAME>
+spiro[9H-anthracene-10,3'-pyrrolidine]
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+spiro[9H-anthracene-10,3'-pyrrolidine]
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+spiro[9H-anthracene-10,3'-pyrrolidine]
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H17N/c1-3-7-15-13(5-1)11-14-6-2-4-8-16(14)17(15)9-10-18-12-17/h1-8,18H,9-12H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LKSUTFUZSGZMOS-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.3
+
+> <PUBCHEM_EXACT_MASS>
+235.136099547
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H17N
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+235.32
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CNCC12C3=CC=CC=C3CC4=CC=CC=C24
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CNCC12C3=CC=CC=C3CC4=CC=CC=C24
+
+> <PUBCHEM_CACTVS_TPSA>
+12
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+235.136099547
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  15  8
+12  16  8
+13  17  8
+14  18  8
+15  17  8
+16  18  8
+5  11  8
+5  8  8
+6  12  8
+6  9  8
+8  13  8
+9  14  8
+
+$$$$

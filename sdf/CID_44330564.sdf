@@ -1,0 +1,185 @@
+44330564
+  -OEChem-09292322502D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+    2.2956   -0.7337    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.5098    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1245    0.7378    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7642   -0.8279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7424   -1.0045    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6282    0.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5291    0.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7517    1.5657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1282    2.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1282    2.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7272    0.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5047    1.5657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4854   -1.7882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2142   -0.1295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8725    0.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5144    1.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1778   -2.5098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5143   -2.0269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3103    1.2967    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1382    2.0504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6868    2.6165    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9902    2.9520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2661    2.9520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5696    2.6165    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3126   -2.3836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8288   -0.0474    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7304   -2.9390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6070   -2.9572    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6252   -2.0805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3663   -1.4248    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9122   -2.1749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6623   -2.6290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44330564
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+315
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzAABGAAAAAAAAAAAAAAAAAWJAAAAAAAAABgAAAACx4AAAHAYIAAAADCrBXiQugZIIAAimAxRnRACTBIAhjBAQ2DAoRpgIIKLh08GEpAhgiADoyAcQgMAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+11,13-dichloro-3-isopropyl-12-thia-3,4-diazatricyclo[8.3.0.02,6]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+11,13-dichloro-3-propan-2-yl-12-thia-3,4-diazatricyclo[8.3.0.02,6]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+11,13-dichloro-3-propan-2-yl-12-thia-3,4-diazatricyclo[8.3.0.0<SUP>2,6</SUP>]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_NAME>
+11,13-dichloro-3-propan-2-yl-12-thia-3,4-diazatricyclo[8.3.0.02,6]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+11,13-bis(chloranyl)-3-propan-2-yl-12-thia-3,4-diazatricyclo[8.3.0.02,6]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+11,13-dichloro-3-isopropyl-12-thia-3,4-diazatricyclo[8.3.0.02,6]trideca-1(13),2(6),4,10-tetraene
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H14Cl2N2S/c1-7(2)17-11-8(6-16-17)4-3-5-9-10(11)13(15)18-12(9)14/h6-7H,3-5H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BOYSEZZLZQFFIG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5
+
+> <PUBCHEM_EXACT_MASS>
+300.0254750
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H14Cl2N2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+301.2
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)N1C2=C(CCCC3=C(SC(=C32)Cl)Cl)C=N1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)N1C2=C(CCCC3=C(SC(=C32)Cl)Cl)C=N1
+
+> <PUBCHEM_CACTVS_TPSA>
+46.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+300.0254750
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+11  15  8
+12  16  8
+3  15  8
+3  16  8
+4  5  8
+4  6  8
+5  14  8
+6  7  8
+7  14  8
+
+$$$$

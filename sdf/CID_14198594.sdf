@@ -1,0 +1,188 @@
+14198594
+  -OEChem-09292322142D
+
+ 32 34  0     1  0  0  0  0  0999 V2000
+    2.5381   -2.5068    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.5381   -0.4585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343   -1.9827    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682   -0.4827    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.9343   -0.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022   -0.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022   -1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682   -2.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    0.5173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083   -0.4480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083   -2.5173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    1.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    1.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022   -0.9619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022   -2.0035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    2.5173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6052   -0.1727    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5449   -1.0903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1463   -0.4001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6697   -2.9576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4668   -2.9576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4712   -2.2927    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154    0.1720    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154   -3.1373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4712    0.7073    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6653    0.7073    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4712    2.3273    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6653    2.3273    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    3.1373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7664    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  6  0  0  0
+  4 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+14198594
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+280
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByIAAEAAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAACxQAAAHgIQCAAADQbBmCQwBoLAAgCAAiBCAACCAAAgJUAIiIAOD4gIJiKDkxOEcAhk0BGImAeQ0PIOpAABIAAQCABIAAJAACAQAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(4S)-7-chloro-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(4S)-7-chloro-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(4<I>S</I>)-7-chloro-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_NAME>
+(4S)-7-chloro-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(4S)-7-chloranyl-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(4S)-7-chloro-4-phenyl-1,2,3,4-tetrahydroisoquinolin-6-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14ClNO/c16-14-6-11-8-17-9-13(12(11)7-15(14)18)10-4-2-1-3-5-10/h1-7,13,17-18H,8-9H2/t13-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MGAQDUSMABIJCH-ZDUSSCGKSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+259.0763918
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14ClNO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+259.73
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C2=CC(=C(C=C2CN1)Cl)O)C3=CC=CC=C3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H](C2=CC(=C(C=C2CN1)Cl)O)C3=CC=CC=C3
+
+> <PUBCHEM_CACTVS_TPSA>
+32.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+259.0763918
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+11  15  8
+12  16  8
+13  17  8
+14  15  8
+16  18  8
+17  18  8
+4  9  6
+6  10  8
+6  7  8
+7  11  8
+9  12  8
+9  13  8
+
+$$$$
